@@ -334,7 +334,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Create and edit parametric 3D-printable parts as code, render previews, and publish them to a public library.
 - [QRX](https://qrx.codes/developers/mcp) `https://qrx.codes/mcp`
   [![QRX MCP connector](https://glama.ai/mcp/connectors/codes.qrx/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/codes.qrx/mcp)
-  🔐 🔑 - Create artistic, print-ready QR codes from a prompt and a link, each verified to scan; sign in with a free account.
+  🔐 - Create artistic, print-ready QR codes from a prompt and a link, each verified to scan; sign in with a free account.
 - [Roomvana](https://roomvana.ai) `https://api.roomvana.co/mcp`
   [![Roomvana MCP connector](https://glama.ai/mcp/connectors/io.github.TJLDC/roomvana-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.TJLDC/roomvana-mcp)
   🔓 - Browse room types and design styles, then get a Roomvana studio link with those options prefilled.
